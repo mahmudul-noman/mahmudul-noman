@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer (React)</h3>
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">**
-A motivated individual with in-depth knowledge of development technologies and tools, seeking a position in a growth-oriented company where I can utilize my skills to the expansion of the company while having the scope to develop my own proficiency.
+As a passionate and driven front-end developer with excellence in react, my strive is to collaborate with talented teams, tackle complex challenges, and deliver innovative solutions. My concentration is on writing clean and standard code to ensure seamless user experiences and maintainable web applications.
 
 <h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB / Adobe Photoshop / Figma</h4>
 
