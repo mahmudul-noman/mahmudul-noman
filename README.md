@@ -5,7 +5,7 @@
 As a passionate and driven front-end developer with excellence in react, my strive is to collaborate with talented teams, tackle complex challenges, and deliver innovative solutions. My concentration is on writing clean and standard code to ensure seamless user experiences and maintainable web applications.
 
 
- **Skills:** <img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" width="30">
+ **Skills:** <img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" width="20"><br/>
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
@@ -35,6 +35,6 @@ As a passionate and driven front-end developer with excellence in react, my stri
 
 ### Get In Touch: <img src="https://media.giphy.com/media/YMwAWYzXzK4FXrjCZu/giphy.gif" width="40">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mahmudul-noman/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white")](https://faceboook.com/Mahmudul.H.NomAnn)
-📧E-mail: **mhnoman75@gmail.com**
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white")](https://faceboook.com/Mahmudul.H.NomAnn)<br/>
+📧E-mail: **mhnoman75@gmail.com**<br/>
 📱Phone: **+880 16263-82361**
