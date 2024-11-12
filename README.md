@@ -40,4 +40,3 @@ I am a Frontend Developer with 1 year of experience in building responsive, pixe
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mahmudul-noman/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white")](https://faceboook.com/Mahmudul.H.NomAnn)<br/>
 📧E-mail: **mhnoman75@gmail.com**<br/>
-📱Phone: **+880 16263-82361**
