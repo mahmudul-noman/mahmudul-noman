@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h2 align="center">Front-End Developer | React Developer</h2>
+<h2 align="center">Software Engineer</h2>
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">**
-As a passionate and driven front-end developer with excellence in react, my strive is to collaborate with talented teams, tackle complex challenges, and deliver innovative solutions. My concentration is on writing clean and standard code to ensure seamless user experiences and maintainable web applications.
+I am a Frontend Developer with 1 year of experience in building responsive, pixel-perfect web applications. Skilled in Angular and ReactJS, I specialize in API integration to create dynamic, user-centric interfaces. In my current role, I have also worked on projects involving Shopify and WordPress, which has expanded my skills across various platforms. I am committed to continuous learning and delivering high-quality solutions.
 
 
  **Skills:** <img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" width="20"><br/>
