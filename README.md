@@ -2,7 +2,11 @@
 <h2 align="center">Software Engineer</h2>
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">**
-I am a Frontend Developer with 1 year of experience in building responsive, pixel-perfect web applications. Skilled in Angular and ReactJS, I specialize in API integration to create dynamic, user-centric interfaces. In my current role, I have also worked on projects involving Shopify and WordPress, which has expanded my skills across various platforms. I am committed to continuous learning and delivering high-quality solutions.
+I am a Frontend Developer with one and a half years of experience in building responsive, pixel-perfect web applications. Skilled in JavaScript, Angular, and ReactJS, I specialize in integrating APIs to create dynamic and user-centric interfaces.
+
+In my current role at Data Grid Ltd., I’ve utilized AngularJS and ReactJS to develop high-quality applications and have contributed to Shopify and WordPress projects, expanding my expertise across various platforms.
+
+I hold a B.Sc. in Computer Science & Engineering from the World University of Bangladesh. Throughout my academic career, I participated in numerous projects and competitions, which helped me enhance my problem-solving and collaboration skills. I am passionate about continuous learning and staying updated with emerging technologies.
 
 
  **Skills:** <img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" width="20"><br/>
