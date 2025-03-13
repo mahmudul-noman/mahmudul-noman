@@ -1,40 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h2 align="center">Frontend Developer</h2>
-
-## **About Me:**
-I’m a passionate Frontend Developer with over a year of experience in creating responsive, pixel-perfect web applications. I specialize in JavaScript, Angular, and ReactJS and have experience integrating APIs to deliver dynamic, user-friendly interfaces.
-
-Currently working at Data Grid Ltd., I contribute to AngularJS, ReactJS, and Shopify/WordPress projects. I hold a B.Sc. in Computer Science & Engineering from the World University of Bangladesh. I'm always eager to expand my knowledge and stay up-to-date with the latest technologies.
+# Hi 👋, I'm Mahmudul Hasan  
+### Software Engineer | Frontend Developer  
 
 ---
 
-**Skills:**
-![JavaScript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![HTML5](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow) 
+## **About Me**  
+I'm a **Frontend Developer** with 1.5+ years of experience building responsive, pixel-perfect web applications. Proficient in **JavaScript**, **Angular**, and **ReactJS**, I specialize in creating dynamic, user-centric interfaces by integrating APIs.  
+
+Currently, I work at **Data Grid Ltd.**, where I develop high-quality applications using **AngularJS** and **ReactJS**. I’ve also contributed to **Shopify** and **WordPress** projects, broadening my expertise across multiple platforms.  
+
+I hold a **B.Sc. in Computer Science & Engineering** from the **World University of Bangladesh**. My academic journey involved numerous projects and competitions, honing my problem-solving and collaboration skills. I’m passionate about continuous learning and staying updated with emerging technologies.  
 
 ---
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+## **Skills**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0396DE?style=flat&logo=firebase&logoColor=FFCA28)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
 ---
 
-**Github Stats:**
-![Stats](https://github-readme-stats.vercel.app/api?username=mahmudul-noman&theme=darcula&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-noman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+## **Tools**  
+![Git](https://img.shields.io/badge/Git-E94E31?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Surge](https://img.shields.io/badge/Surge-00A98F?style=flat&logo=surge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)  
 
 ---
 
-**Get in Touch:**
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-noman/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Engr.MHNoman)  
-📧 **mhnoman75@gmail.com**
+## **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudul-noman&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-noman&theme=dark&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-noman&theme=dark&hide_border=true&layout=compact)  
+
+---
+
+## **Get In Touch**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-noman/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/Engr.MHNoman)  
+📧 **E-mail:** mhnoman75@gmail.com  
