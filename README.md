@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahmudul Hasan Nomman
+# Hi 👋, I'm Mahmudul Hasan Noman
 ### Software Engineer (Frontend)
 
 ---
