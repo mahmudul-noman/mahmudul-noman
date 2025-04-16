@@ -6,7 +6,7 @@
 ## **About Me**  
 I'm a **Software Engineer (Frontend)** with 1.5+ years of experience building responsive, pixel-perfect web applications. Proficient in **JavaScript**, **AngularJS**, **ReactJS** and **NextJS** I specialize in creating dynamic, user-centric interfaces by integrating APIs.  
 
-Currently, I work at **Tizaraa**, a **multivendor eCommerce platform**
+Currently, I work at **Tizaraa**, a software company. I contribute to their **multivendor eCommerce** platform named **Tizaraa**, as well as their **ERP software called Daiki Axis.**
 
 I hold a **B.Sc. in Computer Science & Engineering** from the **World University of Bangladesh**.
 
