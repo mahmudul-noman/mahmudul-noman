@@ -1,42 +1,53 @@
-# Hi 👋, I'm Mahmudul Hasan Noman
-### Software Engineer (Frontend)
+# 👋 Hi, I'm Mahmudul Hasan Noman  
+### 🚀 Frontend Software Engineer
 
 ---
 
-## **About Me**  
-I'm a **Software Engineer (Frontend)** with 1.5+ years of experience building responsive, pixel-perfect web applications. Proficient in **JavaScript**, **AngularJS**, **ReactJS** and **NextJS** I specialize in creating dynamic, user-centric interfaces by integrating APIs.  
+## 🧑‍💻 About Me  
+I'm a **Frontend Software Engineer** with over **2 years of experience** crafting responsive, high-performance web applications. My toolkit includes **JavaScript**, **ReactJS**, **NextJS**, and **AngularJS**, with a strong focus on building user-centric interfaces and integrating APIs seamlessly.
 
-Currently, I work at **Tizaraa**, a software company. I contribute to their **multivendor eCommerce** platform named **Tizaraa**, as well as their **ERP software called Daiki Axis.**
+Currently, I’m working at **Tizaraa**, where I contribute to:
 
-I hold a **B.Sc. in Computer Science & Engineering** from the **World University of Bangladesh**.
+- 🛒 A **Multivendor eCommerce Platform** (Tizaraa)  
+- 🧾 An **ERP System** (Daiki Axis)
+
+🎓 I hold a **B.Sc. in Computer Science & Engineering** from the **World University of Bangladesh**.
 
 ---
 
-## **Skills**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat\&logo=angularjs\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
 ![NgRx](https://img.shields.io/badge/NgRx-C82D78?style=flat&logo=ngrx&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat\&logo=material-ui\&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=vercel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat\&logo=wordpress\&logoColor=white)
 
+**UI Libraries & Styling**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)  
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=vercel&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-
-
-
----
-
-## **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-noman&theme=dark&hide_border=true&layout=compact)  
+**Others**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
-## **Get In Touch**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-noman/)
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-noman&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 📬 Get In Touch  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-noman/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/Engr.MHNoman)  
-📧 **E-mail:** mhnoman75@gmail.com  
+📧 **Email:** mhnoman75@gmail.com
+
+---
+
+✨ *Always learning. Always building. Let's connect!*
